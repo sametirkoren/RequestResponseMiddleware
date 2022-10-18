@@ -1,0 +1,12 @@
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\bin\Debug\net6.0\RequestResponseMiddleware.Library.deps.json
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\bin\Debug\net6.0\RequestResponseMiddleware.Library.dll
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\bin\Debug\net6.0\RequestResponseMiddleware.Library.pdb
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.csproj.AssemblyReference.cache
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.AssemblyInfoInputs.cache
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.AssemblyInfo.cs
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.csproj.CoreCompileInputs.cache
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.dll
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\refint\RequestResponseMiddleware.Library.dll
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\RequestResponseMiddleware.Library.pdb
+C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\obj\Debug\net6.0\ref\RequestResponseMiddleware.Library.dll

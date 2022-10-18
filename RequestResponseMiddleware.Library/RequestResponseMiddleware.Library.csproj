@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <LangVersion>10</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+        <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageVersion>1.0.0</PackageVersion>
+        <PackageId>RequestResponseMiddleware-Test</PackageId>
+        <Authors>Samet İrkören</Authors>
+        <Description>This package is built for handling and managing Request and Response for WEB API projects.</Description>
+        <PackageProjectUrl>https://www.github.com/sametirkoren</PackageProjectUrl>
+        <RepositoryUrl>https://www.github.com/sametirkoren</RepositoryUrl>
+        <PackageTags>RequestResponse;Middleware;</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="license\LICENSE.txt" Pack="true" PackagePath="" />
+        <None Include="README.md" Pack="true" PackagePath="\" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+      <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.2" />
+      <PackageReference Include="Microsoft.IO.RecyclableMemoryStream" Version="2.2.1" />
+    </ItemGroup>
+
+</Project>

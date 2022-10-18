@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RequestResponseMiddleware</id>
+    <version>1.0.0</version>
+    <authors>Samet İrkören</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://www.github.com/sametirkoren</projectUrl>
+    <description>This package is built for handling and managing Request and Response for WEB API projects.</description>
+    <tags>RequestResponse Middleware</tags>
+    <repository url="https://www.github.com/sametirkoren" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Http" version="2.2.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Extensions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="6.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IO.RecyclableMemoryStream" version="2.2.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\bin\Debug\net6.0\RequestResponseMiddleware.Library.dll" target="lib\net6.0\RequestResponseMiddleware.Library.dll" />
+    <file src="C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\license\LICENSE.txt" target="LICENSE.txt" />
+    <file src="C:\Users\vakidev\Documents\RequestResponseMiddlewareSolution\RequestResponseMiddleware.Library\README.md" target="\README.md" />
+  </files>
+</package>

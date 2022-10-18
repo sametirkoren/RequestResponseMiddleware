@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestResponseMiddleware.Library", "RequestResponseMiddleware.Library\RequestResponseMiddleware.Library.csproj", "{EB0CF7D2-EA6B-497B-833C-63F2EDAA6C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware.TestApi", "Middleware.TestApi\Middleware.TestApi.csproj", "{6C097FF1-4222-419B-9B22-B91F80676565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0CF7D2-EA6B-497B-833C-63F2EDAA6C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0CF7D2-EA6B-497B-833C-63F2EDAA6C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0CF7D2-EA6B-497B-833C-63F2EDAA6C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0CF7D2-EA6B-497B-833C-63F2EDAA6C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C097FF1-4222-419B-9B22-B91F80676565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C097FF1-4222-419B-9B22-B91F80676565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C097FF1-4222-419B-9B22-B91F80676565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C097FF1-4222-419B-9B22-B91F80676565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
